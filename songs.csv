@@ -1,0 +1,101 @@
+Artist,Track name,URL,Channel selected,Instrument,Output filename,Comment,Genre,Split
+Queen,Bohemian Rhapsody,https://bitmidi.com/bohemian-rhapsody-1-mid,1,Piano,001.mid,,Rock,R
+Queen,Killer Queen,https://bitmidi.com/uploads/66039.mid,1,Piano,002.mid,,Rock,R
+Queen,Another one bites the dust,https://bitmidi.com/another-one-bites-the-dust-1-mid,10,Drumset,003.mid,,Rock,R
+Queen,We are the champions,https://bitmidi.com/we-are-the-champions-1-mid,1,Piano,004.mid,,Rock,R
+Queen,Don't stop me now,https://bitmidi.com/dont-stop-me-now-mid,1,Piano,005.mid,,Rock,R
+Queen,Hammer to Fall,https://bitmidi.com/hammer-to-fall-mid,10,Drumset,006.mid,,Rock,R
+Queen,Somebody to love,https://bitmidi.com/somebody-to-love-1-mid,1,Piano,007.mid,,Rock,R
+Queen,Keep Yourself Alive,https://bitmidi.com/queen-keep-yourself-alive-mid,3,Electric Guitar,008.mid,,Rock,R
+Queen,Under Pressure,https://bitmidi.com/under-pressure-mid,3,Piano,009.mid,,Rock,E
+Queen,Delilah,https://bitmidi.com/queen-delilah_version_2-mid,10,Drumset,010.mid,,Rock,E
+Coldplay,Scientist,https://bitmidi.com/coldplay-the-scientist-mid,1,Piano,011.mid,PROBLEM,Alt Rock,R
+Coldplay,Viva la vida,https://bitmidi.com/coldplay-viva-la-vida-mid,1,Piano,012.mid,PROBLEM,Rock,R
+Coldplay,Sky full of stars,https://bitmidi.com/coldplay-a_sky_full_of_stars-mid,1,Piano,013.mid,Good,Pop,R
+Coldplay,Amsterdam,https://bitmidi.com/coldplay-amsterdam-mid,1,Piano,014.mid,Good,Rock,R
+Coldplay,Speed of sound,https://bitmidi.com/coldplay-speed_of_sound-mid,12,Piano,015.mid,,Alt Rock,R
+Coldplay,Paradise,https://bitmidi.com/coldplay-paradise-mid,11,Piano,016.mid,,Pop,R
+Coldplay,Clocks,https://bitmidi.com/coldplay-clocks-mid,2,Piano,017.mid,,Alt Rock,R
+Coldplay,Daylight,https://bitmidi.com/coldplay-daylight-mid,4,Piano,018.mid,,Alt Rock,R
+Coldplay,Fix you,https://bitmidi.com/coldplay-fix_you-mid,9,Piano,019.mid,,Alt Rock,R
+Coldplay,Magic,https://bitmidi.com/coldplay-magic-mid,10,Drumset,020.mid,,Pop,R
+Coldplay,Every teardrop is a waterfall ,https://bitmidi.com/coldplay-every_teardrop_is_a_waterfall-mid,6,Piano,021.mid,,Pop,R
+Coldplay,Shiver,https://bitmidi.com/coldplay-shiver-mid,10,Drumset,022.mid,,Pop,R
+Coldplay,Sparks,https://bitmidi.com/coldplay-sparks-mid,5,Piano,023.mid,,Pop,E
+Coldplay,Spies,https://bitmidi.com/coldplay-spies-mid,10,Drumset,024.mid,,Pop,E
+Coldplay,Talk,https://bitmidi.com/coldplay-talk-mid,10,Drumset,025.mid,,Rock,E
+Red Hot Chilli Peppers,Californication,https://bitmidi.com/red-hot-chili-peppers-californication-mid,2,Guitar,026.mid,,Alt Rock,R
+Red Hot Chilli Peppers,Aeroplane,https://bitmidi.com/red-hot-chili-peppers-aeroplane-mid,10,Drumset,027.mid,,Alt Rock,R
+Red Hot Chilli Peppers,My Friends,https://bitmidi.com/red-hot-chili-peppers-my-friends-mid,4,Clean Guitar,028.mid,,Alt Rock,R
+Red Hot Chilli Peppers,Otherside,https://bitmidi.com/red-hot-chili-peppers-otherside-mid,10,Drumset,029.mid,,Alt Rock,R
+Red Hot Chilli Peppers,Under the bridge,https://bitmidi.com/red-hot-chili-peppers-under-the-bridge-mid,2,Electric Guitar,030.mid,,Alt Rock,E
+Owl City,Fireflies,https://bitmidi.com/owl-city-fireflies-mid,1,Piano,031.mid,,Pop,R
+Backstreet boys,As long as you love me,https://bitmidi.com/backstreet-boys-as-long-as-you-love-me-mid,1,Piano,032.mid,,Pop,R
+Backstreet boys,everybody,https://bitmidi.com/backstreet-boys-everybody-mid,10,Drumset,033.mid,,Pop,R
+Backstreet boys,i need you tonight,https://bitmidi.com/backstreet-boys-i-need-you-tonight-mid,1,Piano,034.mid,,Pop,R
+Backstreet boys,i want it that way,https://bitmidi.com/backstreet-boys-i-want-it-that-way-mid,5,Acoustic Guitar,035.mid,,Pop,R
+Backstreet boys,like a child,https://bitmidi.com/backstreet-boys-like-a-child-mid,4,Piano,036.mid,,Pop,R
+Backstreet boys,larger than life,https://bitmidi.com/backstreet-boys-larger-than-life-mid,10,Drumset,037.mid,,Pop,R
+Backstreet boys,my heart stays with you,https://bitmidi.com/backstreet-boys-my-heart-stays-with-you-mid,2,Electric Piano,038.mid,,Pop,R
+Backstreet boys,Quit playing games with my heart,https://bitmidi.com/backstreet-boys-quit-playing-games-with-my-heart-mid,10,Drumset,039.mid,,Pop,E
+Backstreet boys,anywhere for you,https://bitmidi.com/backstreet-boys-anywhere-for-you-k-mid,10,Drumset,040.mid,,Pop,E
+Beethoven,Piano Sonata No. 8,https://www.classicalarchives.com/,ALL,,041.mid,,Classical,R
+Beethoven,Piano Sonata No. 14,https://bitmidi.com/beethoven-moonlight-sonata-mid,1,Piano,042.mid,,Classical,R
+Beethoven,Fur Elise,https://bitmidi.com/fur-elise-1-mid,4,Piano,043.mid,,Classical,R
+Beethoven,Piano Sonata No. 9,https://www.classicalarchives.com/,ALL,,044.mid,,Classical,R
+Beethoven,Piano Sonata No. 1,https://www.classicalarchives.com/,ALL,,045.mid,,Classical,R
+Beethoven,Piano Sonata No. 13,https://www.classicalarchives.com/,ALL,,046.mid,,Classical,R
+Beethoven,Piano Sonata No. 12,https://www.classicalarchives.com/,ALL,,047.mid,,Classical,R
+Chopin,Op. 25 No. 04,https://bitmidi.com/etude-op25-n04-mid,1,Piano,048.mid,,Classical,R
+Chopin,Op. 25 No. 01,https://bitmidi.com/etude-op25-n01-harp-etude-mid,2,Piano,049.mid,,Classical,R
+Chopin,Op. 25 No. 11,https://bitmidi.com/etude-op25-n11-winter-wind-mid,2,Piano,050.mid,,Classical,E
+Michael Jackson,Beat It,https://bitmidi.com/michael-jackson-beat-it-mid,5,Electric Guitar,051.mid,,Rock,R
+Michael Jackson,Billie Jean,https://bitmidi.com/michael-jackson-billie-jean-mid,10,Drumset,052.mid,,Pop,R
+Michael Jackson,Black or White,https://bitmidi.com/michael-jackson-black-or-white-mid,10,Drumset,053.mid,,Pop,R
+Michael Jackson,Don't Stop Till You Get Enough,https://bitmidi.com/michael-jackson-dont-stop-till-you-get-enough-mid,10,Drumset,054.mid,,Pop,R
+Michael Jackson,Off the Wall,https://bitmidi.com/michael-jackson-off-the-wall-mid,3,Piano,055.mid,,Pop,R
+Michael Jackson,Rock With You,https://bitmidi.com/michael-jackson-rock-with-you-mid,3,Electric Guitar,056.mid,,Pop,E
+Michael Jackson,Thriller,https://bitmidi.com/michael-jackson-thriller-mid,10,Drumset,057.mid,,Pop,E
+Beethoven,Piano Sonata No. 4,https://www.classicalarchives.com/,ALL,,058.mid,,Classical,R
+Beethoven,Piano Sonata No. 23,https://www.classicalarchives.com/,ALL,,059.mid,,Classical,E
+Beethoven,Piano Sonata No. 17,https://www.classicalarchives.com/,ALL,,060.mid,,Classical,E
+Adele,Skyfall,https://bitmidi.com/adele-skyfall-mid,1,Piano,061.mid,,Pop,R
+Beyonce,Crazy in Love,https://bitmidi.com/beyonce-crazy-in-love-mid,10,Drumset,062.mid,,Pop,R
+Celine Dion,My Heart Will Go On,https://bitmidi.com/my-heart-will-go-on-from-titanic-mid,1,Piano,063.mid,,Pop,R
+Avicii,Wake Me Up,https://bitmidi.com/avicii-wake_me_up-mid,1,Acoustic Guitar,064.mid,,EDM,R
+Avicii,Levels,https://bitmidi.com/avicii-levels-skrillex-remix-mid,5,Piano,065.mid,,EDM,R
+Daft Punk,Around the World,https://bitmidi.com/daft-punk-around-the-world-mid,2,Piano,066.mid,,EDM,R
+,,https://bitmidi.com/zelda-ocarina-of-time-zelda-medley-mid,1,Piano,067.mid,,,
+Linkin Park,Numb,https://bitmidi.com/linkin-park-numb-tim-dawes-remix-mid,1,Piano,068.mid,,Alt Rock,R
+Linkin Park,One Step Closer,https://bitmidi.com/linkin-park-one-step-closer-mid,1,Piano,069.mid,,Rock,R
+Avicii,Dancing in My Head,https://bitmidi.com/avicii-and-eric-turner-dancing-in-my-head-aviciis-been-cursed-mix-mid,5,Piano,070.mid,,EDM,R
+Avicii,Levels,https://bitmidi.com/avicii-levels-mid,9,Piano,071.mid,,EDM,E
+,,https://bitmidi.com/hans-zimmer-time-mid,1,Piano,072.mid,,,
+,,https://bitmidi.com/hans-zimmer-at-worlds-end-mid,1,Piano,073.mid,,,
+,,https://bitmidi.com/arrividerci-ciao-amor-mid,10,Drumset,074.mid,,,
+,,https://bitmidi.com/arrividerci-clair-mid,10,Drumset,075.mid,,,
+,,https://bitmidi.com/arrividerci-maria-mid,4,Piano,076.mid,,,
+,,https://bitmidi.com/arrividerci-roma-mid,10,Drumset,077.mid,,,
+,,https://bitmidi.com/blinx-the-time-sweeper-time-square-mid,1,Piano,078.mid,,,
+,,https://bitmidi.com/prelude-n20-op28-funeral-march-mid,1,Piano,079.mid,,,
+,,https://bitmidi.com/beatles-imagine-mid,1,Piano,080.mid,,,
+,,https://bitmidi.com/imagine-dragons-radioactive-mid,1,Piano,081.mid,,,
+,,https://bitmidi.com/acdc-thunderstruck-k-mid,10,Drumset,082.mid,,,
+,,https://bitmidi.com/daft-punk-aerodynamic-mid,1,Clavichord,083.mid,,,
+,,https://bitmidi.com/john-lennon-imagine-mid,1,Piano,084.mid,,,
+,,https://bitmidi.com/passenger-let_her_go-mid,2,Piano,085.mid,,,
+,,https://bitmidi.com/adele-someone_like_you-mid,1,Piano,086.mid,,,
+,,https://bitmidi.com/passenger-holes-mid,10,Drumset,087.mid,,,
+,,https://bitmidi.com/passenger-10-waterworld-original-mix-mid,1,Piano,088.mid,,,
+,,https://bitmidi.com/guns-n-roses-sweet-child-o-mine-mid,1,Electric Guitar,089.mid,,,
+,,https://bitmidi.com/the-avengers-mid,10,Drumset,090.mid,,,
+,,https://bitmidi.com/acdc-highway-to-hell-k-mid,10,Drumset,091.mid,,,
+,,https://bitmidi.com/marilyn-manson-sweet-dreams-mid,10,Drumset,092.mid,,,
+,,https://bitmidi.com/maroon-5-ft-christina-aguilera-moves-like-jagger-mid,10,Drumset,093.mid,,,
+,,https://bitmidi.com/jackson-five-i-want-you-back-mid,3,Piano,094.mid,,,
+,,https://bitmidi.com/the-eagles-hotel-california-k-mid,10,Drumset,095.mid,,,
+Armin,,https://bitmidi.com/armin-van-buuren-imagine-mid,1,Piano,096.mid,,,
+Armin,,https://bitmidi.com/armin-van-buuren-astronauts-mid,2,Piano,097.mid,,,
+Armin,,https://bitmidi.com/armin-van-buuren-broken-tonight-mid,1,Piano,098.mid,,,
+Armin,,https://bitmidi.com/armin-van-buuren-burned-with-desire-mid,4,Piano,099.mid,,,
+Armin,,https://bitmidi.com/armin-van-buuren-blue-fear-mid,1,Piano,100.mid,,,
